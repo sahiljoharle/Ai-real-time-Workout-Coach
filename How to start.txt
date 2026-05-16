@@ -3,3 +3,4 @@ python3 -m venv venv
 Only need to run this nect time 
 source venv/bin/activate
 
+uv run streamlit run main.py
